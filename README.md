@@ -4,10 +4,10 @@
 
 A full-stack desktop OTT platform built with **Java 17**, **JavaFX**, and **Oracle SQL** — simulating a real streaming service with user authentication, content browsing, subscription management, watch history, ratings, and an admin dashboard.
 
-![login](screenshot1.png)
-![search](screenshot2.png)
-![profile](screenshot3.png)
-![admin](screenshot4.png)
+![login](Screenshot1.png)
+![search](Screenshot2.png)
+![profile](Screenshot3.png)
+![admin](Screenshot4.png)
 
 ---
 
